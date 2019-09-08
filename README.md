@@ -7,3 +7,9 @@
 3: Ask, "What Would the User Do?" (You are not the user). You'll find that there's a gap between what users say they want and what they actually do.  It's why the best way to capture requirements is to watch users.
 
 4: Automate your coding standard.
+
+5: Beauty is in simplicity.
+
+6: Before you refactor: take stock of the current codebase, avoid the temptation to rewrite everything, make incremental iterations and test.
+
+7: Beware the share: take care when pulling out shared code into a separate libary. You may be preventing libraries using this code to evolve independently.
