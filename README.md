@@ -13,3 +13,13 @@
 6: Before you refactor: take stock of the current codebase, avoid the temptation to rewrite everything, make incremental iterations and test.
 
 7: Beware the share: take care when pulling out shared code into a separate libary. You may be preventing libraries using this code to evolve independently.
+
+8: The Boy Scout Rule: Always leave the campground cleaner than when you found it.
+
+9: Check your code first before looking to blame others.
+
+10: Choose your tools with care.
+
+11: Code in the language of the domain: naming matters / conveys information. Don't make others guess what you mean.
+
+12: Code is design.
