@@ -23,3 +23,15 @@
 11: Code in the language of the domain: naming matters / conveys information. Don't make others guess what you mean.
 
 12: Code is design.
+
+13: Code layout matters: easy to scan, expressive layout, compact format. Auto formatting and conformance with style guides.
+
+14: Code reviews: increase code quality and reduce defects. Instead of simply correcting mistakes in code, the purpose of code reviews should be to share knowledge and establish common coding guidelines. Code reviews will flow more easily if the team has coding conventions that are checked by tools.
+
+15: Coding with reason.
+
+16: A comment on comments: comments are necessary for programming, but you can go too far.
+
+17: Comment only what the code cannot say: a comment has zero (or negative) value if it is wrong. As the codebase evolves comments may not get updated to the point where they could be misleading. Try to express as much as possible through code.
+
+18: Continuous learning. 
