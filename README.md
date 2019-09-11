@@ -35,3 +35,15 @@
 17: Comment only what the code cannot say: a comment has zero (or negative) value if it is wrong. As the codebase evolves comments may not get updated to the point where they could be misleading. Try to express as much as possible through code.
 
 18: Continuous learning. 
+
+19: Convenience is not an -ility.
+
+20: Deploy early and often.
+
+21: Distinguish business exceptions from technical.
+
+22: Do lots of deliberate practice: Research over the last two decades has shown that the main factor in acquiring expertise is time spent doing deliberate practice. Innate ability is not the main factor.
+
+23: Domain specific languages: always take the target audience into account.
+
+24: Don't be afraid to break things.
