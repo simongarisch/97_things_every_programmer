@@ -47,3 +47,9 @@
 23: Domain specific languages: always take the target audience into account.
 
 24: Don't be afraid to break things.
+
+25: Don't be cute with your test data: when writing any text in your code- whether comments, logging, dialogs, or test data - always ask yourself how it will look if it becomes public. It will save some red faces all around.
+
+26: Don't ignore that error.
+
+27: Don't just learn the language, understand the culture.
