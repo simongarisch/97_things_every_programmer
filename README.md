@@ -53,3 +53,17 @@
 26: Don't ignore that error.
 
 27: Don't just learn the language, understand the culture.
+
+28: Don't nail your program into the upright position: Beware the try, except, pass...
+
+29: Don't rely on 'magic happens here': Another department was running smoothly - projects delivered on time, no late-night debugging sessions, no emergency fixes. So smoothly, in fact, that senior management decided that things 'ran themselves', and it could do without the project manager. Within six months, the projects in the department looked just like the rest of the organization - late, buggy, and continually being patched.
+
+30: Don't repeat yourself (DRY).
+
+31: Don't touch that code: if it's broke, production is not the place to fix it.
+
+32: Encapsulate behavior, not just state.
+
+33: Floating-point numbers aren't real: since floating-point numbers are approximations of real numbers, there is inevitably a little error present. This error, called roundoff, can lead to surprising results.
+
+34: Fulfill your ambitions with open source.
