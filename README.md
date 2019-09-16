@@ -67,3 +67,22 @@
 33: Floating-point numbers aren't real: since floating-point numbers are approximations of real numbers, there is inevitably a little error present. This error, called roundoff, can lead to surprising results.
 
 34: Fulfill your ambitions with open source.
+
+35: The golden rule of API design: it's not enough to write tests for an API you develop; you have to write unit tests for code that uses your API.
+
+36: The guru myth.
+
+37: Hard work does not pay off: if you just set off in one direction, running as fast as you can, you might impress some, but you are not likely to succeed. You need to keep a sustainable pace, and you need to adjust course when you learn more about where you are and where you are heading.
+
+38: How to use a bug tracker.
+
+39: Improve code by removing it: YAGANI - You Aren't Gonna Need It.
+
+40: Install me: convenient install and docs.
+
+41: Interprocess communication affects application response time.
+
+42: Keep the build clean.
+
+
+
