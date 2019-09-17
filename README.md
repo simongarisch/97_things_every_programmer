@@ -84,5 +84,10 @@
 
 42: Keep the build clean.
 
+43: Know how to use command line tools.
+
+44: Know well more than two programming languages.
+
+45: Know your IDE.
 
 
