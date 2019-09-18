@@ -90,4 +90,6 @@
 
 45: Know your IDE.
 
+46: Know your limits.
 
+47: Know your next commit. 
