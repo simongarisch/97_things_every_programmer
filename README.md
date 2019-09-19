@@ -92,4 +92,14 @@
 
 46: Know your limits.
 
-47: Know your next commit. 
+47: Know your next commit: have a manageable incremental step in mind.
+
+48: Large, interconnected data belongs to a database.
+
+49: Learn foreign languages.
+
+50: Learn to estimate.
+
+51: Learn to say 'Hello, World' ...
+
+52: Let your project speak for itself: it's effective to embody the project in your office by using an extreme feedback device (XFD).
