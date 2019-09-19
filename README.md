@@ -103,3 +103,12 @@
 51: Learn to say 'Hello, World' ...
 
 52: Let your project speak for itself: it's effective to embody the project in your office by using an extreme feedback device (XFD).
+
+53: The linker is not a magical program.
+
+54: The longevity of interim solutions: they're useful but can acquire inertia. The interim solution can remain in place ... forever. Should you change it? Is it a problem?
+
+55: Make interfaces easy to use correctly and hard to use incorrectly.
+
+
+
