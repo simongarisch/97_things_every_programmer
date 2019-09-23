@@ -110,5 +110,9 @@
 
 55: Make interfaces easy to use correctly and hard to use incorrectly.
 
+56: Make the invisible more visible: It's best to develop software with plenty of regular visible evidence.
 
+57: Message passing leads to better scalability in parallel systems.
+
+58: A message to the future: Think of every line of code you write as a message for someone in the future - someone who might be your younger brother. Pretend you're explaining to this smart person how to solve this tough problem.
 
