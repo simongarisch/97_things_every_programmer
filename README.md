@@ -116,3 +116,14 @@
 
 58: A message to the future: Think of every line of code you write as a message for someone in the future - someone who might be your younger brother. Pretend you're explaining to this smart person how to solve this tough problem.
 
+59: Missing opportunities for polymorphism: Used carefully, polymorphism creates tiny localized execution contexts that let us work without the need for verbose if-then-else blocks.
+
+60: Testers are your friend.
+
+61: One binary: build a single binary that you can identify and promote through all stages in the release pipeline.
+
+62: Only the code tells the truth: ask youself how clearly your code is telling you or any other programmer what it is doing. Comments are not running code and can be just as wrong as other forms of documentation. Strive for good names, write automated tests, refactor mercilessly.
+
+63: Own (and refactor) the build: the code is useless without being built. Build scripts are code. 
+
+
