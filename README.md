@@ -126,4 +126,9 @@
 
 63: Own (and refactor) the build: the code is useless without being built. Build scripts are code. 
 
+64: Pair program and feel the flow.
+
+65: Prefer domain specific types to primative types.
+
+66: Prevent errors: offer selection widgets for data rather than expecting raw user input. Provide cues on the desired format, defaults where possible.
 
