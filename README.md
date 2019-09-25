@@ -132,3 +132,11 @@
 
 66: Prevent errors: offer selection widgets for data rather than expecting raw user input. Provide cues on the desired format, defaults where possible.
 
+67: The professional programmer: you are responsible for your career, learning, code quality...
+
+68: Put everything under version control.
+
+69: Put the mouse down and step away from the keyboard: the trick is that while the logical side of your brain is coding the creative side is shut out. It can't present anything to you until the logical side takes a break.
+
+70: Read code.
+
