@@ -153,3 +153,11 @@
 76: The single responsibility principle: A subsystem, module, class or function should not have more than one reason to change.
 
 77: Start from yes.
+
+78: Step back and automate, automate, automate.
+
+79: Take advantage of code analysis tools.
+
+80: Test for required behavior, not incidental behavior: When tests are wired to implemention incidentals, changes to the implementation that are actually compatible with the required behavior may cause tests to fail, leading to false positives. Overspecified tests are often a problem with whitebox approaches to unit testing. Whitebox tests use the structure of the code to determine the test cases needed.
+
+81: Test precisely and concretely.
