@@ -140,3 +140,16 @@
 
 70: Read code.
 
+71: Read the humanities: prople write software with people for people. It's a people business.
+
+72: Reinvent the wheen often: Reinventing the wheel and getting it wrong is more valuable than nailing it first time. There are lessons learned from trial and error.
+
+73: Resist the temptation of the singleton pattern.
+
+74: The road to performance is littered with dirty code bombs.
+
+75: Simplicity comes from reduction. The code should be simple... extra anything should be purged.
+
+76: The single responsibility principle: A subsystem, module, class or function should not have more than one reason to change.
+
+77: Start from yes.
