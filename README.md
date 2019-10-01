@@ -167,3 +167,15 @@
 83: Testing is the engineering rigor of software development.
 
 84: Thinking in states. Study the state pattern. When you are comfortable, read up on Design by Contract.
+
+85: Two heads are often better than one. Being the expert technologist is no longer sufficient. You must become effective at working with others. I'm a big fan of pair programming.
+
+86: Two wrongs can make a right (and are diffucult to fix): The interplay between two code defects that appear as one visible fault not only makes it hard to fix the problem, but also leads developers down blind alleys, only to find they tried the right answers early on.
+
+87: Ubuntu coding for your friends.
+
+88: The Unix tools are your friends.
+
+89: Use the right algorithm and data structure.
+
+90: Verbose logging will disturb your sleep. Too much logging can be as useless as none at all.
