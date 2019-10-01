@@ -161,3 +161,9 @@
 80: Test for required behavior, not incidental behavior: When tests are wired to implemention incidentals, changes to the implementation that are actually compatible with the required behavior may cause tests to fail, leading to false positives. Overspecified tests are often a problem with whitebox approaches to unit testing. Whitebox tests use the structure of the code to determine the test cases needed.
 
 81: Test precisely and concretely.
+
+82: Test while you sleep (and over weekends): Are you constantly finding it difficult to get enough computing power during the work day? If so, what are your test servers doing outside of normal work hours?
+
+83: Testing is the engineering rigor of software development.
+
+84: Thinking in states. Study the state pattern. When you are comfortable, read up on Design by Contract.
