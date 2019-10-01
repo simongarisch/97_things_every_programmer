@@ -179,3 +179,17 @@
 89: Use the right algorithm and data structure.
 
 90: Verbose logging will disturb your sleep. Too much logging can be as useless as none at all.
+
+91: WET dilutes performance bottlenecks. The antithesis of DRY is WET (Write Every Time). With WET, we have 10 different implementations that we need to find and fix and the performance bottleneck is harder to see.
+
+92: When programmers and testers collaborate. The magic of successful teamwork begins.
+
+93: Write code as if you had to support it for the rest of your life.
+
+94: Write small functions using examples.
+
+95: Write tests for people. Good tests act as documentation for the code they are testing.
+
+96: You gotta care about the code. Good programming lies in taking a professional approach and wanting to write the best software that you can.
+
+97: Your customers to not mean what they say. The problem is that customers don't always tell you the whole truth. They use customer speak, not developer speak. So how do you deliver a software product under these circumstances? Interact with them more. Discuss requirements in detail from the outset. Get feedback early and often.
